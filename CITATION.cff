@@ -6,7 +6,6 @@ authors:
   - family-names: "Consul"
     given-names: "Peeyush"
     orcid: "https://orcid.org/0009-0005-5970-3442"
-    affiliation: "University of Michigan"
 version: "1.0.0"
 repository-code: "https://github.com/pconsul00/llama31-70b-inference-capacity-study"
 license:
