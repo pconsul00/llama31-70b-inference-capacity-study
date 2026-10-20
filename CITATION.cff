@@ -6,11 +6,9 @@ authors:
   - family-names: "Consul"
     given-names: "Peeyush"
     orcid: "https://orcid.org/0009-0005-5970-3442"
-version: "1.0.0"
+version: "1.0.1"
 repository-code: "https://github.com/pconsul00/llama31-70b-inference-capacity-study"
-license:
-  - MIT
-  - CC-BY-4.0
+license: CC-BY-4.0
 keywords:
   - llm-inference
   - vllm
@@ -23,11 +21,3 @@ abstract: >-
   (FP8 weights) on four NVIDIA RTX PRO 6000 Blackwell GPUs: throughput, latency,
   power, GPU activity and KV cache use across input length, output length and
   request rate.
-preferred-citation:
-  type: report
-  title: "Llama 3.1 70B Inference Capacity Report: Throughput, Latency, and Power Across a 150-Point Load Sweep"
-  authors:
-    - family-names: "Consul"
-      given-names: "Peeyush"
-      orcid: "https://orcid.org/0009-0005-5970-3442"
-  year: "2026"
