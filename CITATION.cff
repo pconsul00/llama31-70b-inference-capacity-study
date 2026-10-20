@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this dataset, code or report, please cite it as below."
+title: "Llama 3.1 70B inference capacity study: data and code"
+type: dataset
+authors:
+  - family-names: "Consul"
+    given-names: "Peeyush"
+    orcid: "https://orcid.org/0009-0005-5970-3442"
+    affiliation: "University of Michigan"
+version: "1.0.0"
+repository-code: "https://github.com/pconsul00/llama31-70b-inference-capacity-study"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - llm-inference
+  - vllm
+  - llama-3
+  - benchmark
+  - nvidia-blackwell
+  - gpu-performance
+abstract: >-
+  Data, analysis code and report for a 150-point vLLM load sweep of Llama 3.1 70B
+  (FP8 weights) on four NVIDIA RTX PRO 6000 Blackwell GPUs: throughput, latency,
+  power, GPU activity and KV cache use across input length, output length and
+  request rate.
+preferred-citation:
+  type: report
+  title: "Llama 3.1 70B Inference Capacity Report: Throughput, Latency, and Power Across a 150-Point Load Sweep"
+  authors:
+    - family-names: "Consul"
+      given-names: "Peeyush"
+      orcid: "https://orcid.org/0009-0005-5970-3442"
+  year: "2026"
