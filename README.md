@@ -70,7 +70,7 @@ See `DATA_DICTIONARY.md` for every column and unit.
 
 ## How to cite
 
-GitHub's "Cite this repository" button reads `CITATION.cff`.
+Consul, P. (2026). Llama 3.1 70B inference capacity study: data and code (v1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23512878
 
 
 
