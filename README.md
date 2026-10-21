@@ -70,8 +70,11 @@ See `DATA_DICTIONARY.md` for every column and unit.
 
 ## How to cite
 
-Consul, P. (2026). Llama 3.1 70B inference capacity study: data and code (v1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23512878
+GitHub's "Cite this repository" button reads `CITATION.cff`.
 
+Report: Consul, P. (2026). Llama 3.1 70B Inference Capacity Report: Throughput, Latency, and Power Across a 150-Point Load Sweep. Zenodo. https://doi.org/10.5281/zenodo.23521977
+
+Data and code: Consul, P. (2026). Llama 3.1 70B inference capacity study: data and code (v1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23512878
 
 
 ## License
