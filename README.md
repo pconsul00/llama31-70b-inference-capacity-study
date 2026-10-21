@@ -76,7 +76,6 @@ Report: Consul, P. (2026). Llama 3.1 70B Inference Capacity Report: Throughput, 
 
 Data and code: Consul, P. (2026). Llama 3.1 70B inference capacity study: data and code (v1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23512878
 
-
 ## License
 
 - Code (`scripts/`): MIT, see `LICENSE`.
