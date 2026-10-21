@@ -7,6 +7,7 @@ authors:
     given-names: "Peeyush"
     orcid: "https://orcid.org/0009-0005-5970-3442"
 version: "1.0.1"
+doi: 10.5281/zenodo.23512878
 repository-code: "https://github.com/pconsul00/llama31-70b-inference-capacity-study"
 license: CC-BY-4.0
 keywords:
