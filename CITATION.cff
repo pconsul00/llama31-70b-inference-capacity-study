@@ -8,7 +8,7 @@ authors:
     orcid: "https://orcid.org/0009-0005-5970-3442"
     affiliation: "University of Michigan"
 version: "1.0.1"
-doi: 10.5281/zenodo.23512878
+doi: 10.5281/zenodo.23512877
 repository-code: "https://github.com/pconsul00/llama31-70b-inference-capacity-study"
 license: CC-BY-4.0
 keywords:
@@ -32,4 +32,4 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0005-5970-3442"
       affiliation: "University of Michigan"
   year: 2026
-  doi: 10.5281/zenodo.23521977
+  doi: 10.5281/zenodo.23521976
